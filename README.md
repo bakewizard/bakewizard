@@ -52,6 +52,8 @@ BakeKit is a modern CMS built with **CakePHP 5**, inspired by real developer nee
 - Gulp + Dart Sass
 - SCSS, JavaScript (ES6)
 
+<!--
+
 ---
 
 ## 📦 Featured Repositories
@@ -60,12 +62,14 @@ BakeKit is a modern CMS built with **CakePHP 5**, inspired by real developer nee
 - [🎨 BakeKit Themes](#) – Coming soon: Themes for your BakeKit sites
 - [🧪 BakeKit Plugins](#) – Extra functionality, plug and play
 
+-->
+
 ---
 
 ## 🤝 Let's Connect
 
 - 💬 Have ideas, suggestions, or questions? Open an issue or PR!
-- 🌐 Coming soon: [bakekit.dev](https://bakekit.dev)
+<!-- - 🌐 Coming soon: [bakekit.dev](https://bakekit.dev) -->
 - ✉️ Contact me via GitHub or drop a comment on the repo
 
 ---
