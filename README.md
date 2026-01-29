@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I’m the BakeWizard 🍰
 
-Welcome to my corner of the web! I'm the creator of **BakeKit**, a modern, developer-friendly CMS built on top of CakePHP. If you can make it, **bake** it!
+Welcome to my corner of the web! I'm the creator of **BakeKit**, a modern, developer-friendly CMS boilerplate built on top of CakePHP.
 
 ---
 
@@ -39,7 +39,7 @@ BakeKit is a modern CMS built with **CakePHP 5**, inspired by real developer nee
 - 💡 Built with flexibility, scalability, and CakePHP’s philosophy in mind
 
 ### Slogan:  
-> **If you can make it, bake it!**
+> **If you can make it, bake it with BakeKit!**
 
 ---
 
